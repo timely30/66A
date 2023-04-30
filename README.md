@@ -1,4 +1,5 @@
 # 66A
+<<<<<<< HEAD
 
 😹try to write 
 
@@ -11,3 +12,7 @@
 	
 	git clone 
 so many thing have to learn
+=======
+try to write 
+try to write even more
+>>>>>>> tester-2
